@@ -1,1 +1,13 @@
-
+{
+  "packages": [
+    "com.guoshi.httpcanary",
+    "com.guoshi.httpcanary.premium",
+    "com.packetcapture",
+    "com.minhui.networkcapture",
+    "com.evbadroid.proxydroid",
+    "app.greyshirts.firewall",
+    "com.reqable.android",
+    "com.emanuelef.remote_capture",
+    "com.charles.proxy.app"
+  ]
+}
