@@ -1,4 +1,6 @@
 {
+  "billboard_message": "Welcome to HD Stream! Live TV & Movies are updated daily. Join our Telegram for latest updates.",
+  "show_billboard": true,
   "banners": [
     {
       "id": 1,
