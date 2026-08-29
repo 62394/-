@@ -1,6 +1,6 @@
 {
   "billboard_message": "Welcome to HD Stream! Live TV & Movies are updated daily.",
-  "show_billboard": false,
+  "show_billboard": true,
   "banners": [
     {
       "id": 1,
