@@ -1,0 +1,9 @@
+{
+  "proxy_domains": [
+    "workers.dev",
+    "pages.dev",
+    "streamflexsmm.in",
+    "proxy",
+    "redirect"
+  ]
+}
