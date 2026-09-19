@@ -5,8 +5,15 @@
     {
       "id": 1,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://i.ytimg.com/vi/mxIzp1bJJis/maxresdefault.jpg",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/196960/stream.mp4?api_key=eeb4305ea0b6487890da862f1e97d81e&Static=true&MediaSourceId=mediasource_196960&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://cdn.district.in/movies-assets/images/cinema/HAIWAAN-64d2a6c0-9646-11f1-8dd5-fd20b2c26eab.jpg",
+      "stream_url": "http://160.187.56.254:8096/emby/emby/videos/265411/stream.mkv?api_key=3e409b4a76c9434eb48d4e8fb30652f9&Static=true&MediaSourceId=mediasource_265411&DeviceId=9743fbe0-ba28-42cb-9605-0eee90b5994b",
+      "cookie_url": ""
+    },
+    {
+      "id": 2,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://cdn.district.in/movies-assets/images/cinema/_Cover-1ecc1290-961b-11f1-8483-eb84b060bac3.jpg",
+      "stream_url": "http://160.187.56.254:8096/emby/emby/videos/265422/stream.mkv?api_key=3e409b4a76c9434eb48d4e8fb30652f9&Static=true&MediaSourceId=mediasource_265422&DeviceId=9743fbe0-ba28-42cb-9605-0eee90b5994b",
       "cookie_url": ""
     }
   ],
