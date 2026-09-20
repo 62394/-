@@ -76,27 +76,34 @@
     },
     {
       "id": 9,
+      "name": "Live Events",
+      "icon_url": "https://img.magnific.com/premium-photo/live-event-announcement-with-bold-text-dynamic-background_1634541-524.jpg?semt=ais_hybrid&w=740&q=80",
+      "playlist_url": "https://square-poetry-629e.latestapk.workers.dev/?ab54dt",
+      "cookie_url": ""
+    },
+    {
+      "id": 10,
       "name": "Prime Sports",
       "icon_url": "https://pbs.twimg.com/profile_images/2049865070394392576/GPXgpAD-_400x400.jpg",
       "playlist_url": "https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/primesport.m3u",
       "cookie_url": ""
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "TNT Sports",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSscNau-ftB65GZ41bARPwYHl2rV0-dE-EFKT5KfU3NyQ&s",
       "playlist_url": "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/Tnt.m3u",
       "cookie_url": ""
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Fancode",
       "icon_url": "https://play-lh.googleusercontent.com/VwwyvMYe8rVhEwAP2MIUliY0ZAwyb41jHzd5RLwvYIm7H4M4ty-kWtLNWsMKRmyqWg4uO0Buw8YhAtuR9effBg",
       "playlist_url": "https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/refs/heads/main/fancode2.m3u",
       "cookie_url": ""
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Opplex TV",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeorFHSGOZvG0rWrp5v3uSScGHhQK2v0mOT9cMb9r-ZJ9mMyrEtKLxqQPL&s=10",
       "playlist_url": "https://raw.githubusercontent.com/johirxofficial/otv-auto-updated-playlist/main/otv.m3u",
@@ -104,35 +111,35 @@
       "pin": "1358"
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Airtel TV",
       "icon_url": "https://www.jopgroup.in/wp-content/uploads/2023/04/airtel.jpg",
       "playlist_url": "https://raw.githubusercontent.com/ProTube/nextjs-blog-theme/refs/heads/main/artl",
       "cookie_url": ""
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "ZEE 5 HD",
       "icon_url": "https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/playlist5.m3u",
       "cookie_url": ""
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Sony LIV",
       "icon_url": "https://cdn.dotpe.in/longtail/store-items/3681248/OUlLVlgQ.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/slvsdhd",
       "cookie_url": "https://mblivecookies.shoeb66445.workers.dev/"
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "ZEE 5",
       "icon_url": "https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/zso",
       "cookie_url": "https://mblivecookies.shoeb66445.workers.dev/"
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "Voot",
       "icon_url": "https://play-lh.googleusercontent.com/InSOp5thAKQxms_ZZfRVjefSQFX2_WDTR1B03C3zcmxftJUkOWC2c__ciwfFLwxT2G6aRQmjfMV28-tnV6dE0w",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/voto",
@@ -282,7 +289,7 @@
       "id": 7,
       "name": "Romance",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlMEArIJFa51ojgLc4MS_ycYDJJOFt8qqj4poP_OP215LvTxjisaHbzXex-cSZQEWGGBqDuM-6PdMoQ1KaLPc-XQYKM-DHx97eM6TX87ZhYWne1DC5Q5_5f7JGbl-pf4I_KFtTv-KKoFxXBo9h_fBq_0mc9x1fP4pU3_4H2DJ7xwHM23jIAOErMPqwikB/s1600/Romance-logo.jpeg",
-      "playlist_url": "https://square-poetry-629e.latestapk.workers.dev/?ab54dt",
+      "playlist_url": "",
       "cookie_url": ""
     }
   ]
