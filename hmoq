@@ -15,6 +15,55 @@
       "image_url": "https://cdn.district.in/movies-assets/images/cinema/Con-city-cover-21eba910-194b-11f1-85d3-dd2cc10d3c9b.jpg",
       "stream_url": "http://160.187.56.254:8096/emby/videos/457267/stream.mkv?api_key=4e9b5e73b6ec47789d7faa21bbf93cf7&Static=true&MediaSourceId=mediasource_457267&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
       "cookie_url": ""
+    },
+    {
+      "id": 3,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BZTdiMTkzODYtZmE2Yy00NDZhLWE0ZDQtMTA1N2YyNWE5YjBlXkEyXkFqcGc@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/462096/stream.mkv?api_key=4e9b5e73b6ec47789d7faa21bbf93cf7&Static=true&MediaSourceId=mediasource_462096&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "cookie_url": ""
+    },
+    {
+      "id": 4,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://cdn.district.in/movies-assets/images/cinema/_Horizontal_Poster2%20(20)-71b98870-b641-11f1-a883-05e03ee861e1.jpg",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/435241/stream.mkv?api_key=4e9b5e73b6ec47789d7faa21bbf93cf7&Static=true&MediaSourceId=mediasource_435241&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "cookie_url": ""
+    },
+    {
+      "id": 5,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2025/08/08/1600x900/nani_1754636183857_1754636213061.jpg",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/458425/stream.mkv?api_key=4e9b5e73b6ec47789d7faa21bbf93cf7&Static=true&MediaSourceId=mediasource_458425&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "cookie_url": ""
+    },
+    {
+      "id": 6,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://www.jagranimages.com/images/2026/09/12/template/image/haiwaan-(12)-1789181308821.webp",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/434532/stream.mkv?api_key=4e9b5e73b6ec47789d7faa21bbf93cf7&Static=true&MediaSourceId=mediasource_434532&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "cookie_url": ""
+    },
+    {
+      "id": 7,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR846IBqEaOLRw2xj76xopQG1MDdrX2JLd-OvkSPtBdXe6p8IXLDFJayzQb&s=10",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/430074/stream.mp4?api_key=4e9b5e73b6ec47789d7faa21bbf93cf7&Static=true&MediaSourceId=mediasource_430074&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "cookie_url": ""
+    },
+    {
+      "id": 8,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://english.makalukhabar.com/wp-content/uploads/2026/09/Mirzapur-MK.jpg",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/434998/stream.mkv?api_key=4e9b5e73b6ec47789d7faa21bbf93cf7&Static=true&MediaSourceId=mediasource_434998&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "cookie_url": ""
+    },
+    {
+      "id": 9,
+      "title": "Blockbuster Movies HD",
+      "image_url": "https://assets-in.bmscdn.com/discovery-catalog/events/et00477911-klbacxkshn-landscape.jpg",
+      "stream_url": "http://160.187.56.254:8096/emby/videos/433455/stream.mkv?api_key=4e9b5e73b6ec47789d7faa21bbf93cf7&Static=true&MediaSourceId=mediasource_433455&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "cookie_url": ""
     }
   ],
   "browse_livetv_apps": [
