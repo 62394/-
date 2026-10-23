@@ -135,7 +135,7 @@
       "name": "Sony LIV",
       "icon_url": "https://cdn.dotpe.in/longtail/store-items/3681248/OUlLVlgQ.jpeg",
       "playlist_url": "https://slvv-frost-cfdb.bravetubez.workers.dev/?ab54dt",
-      "cookie_url": "https://raw.githubusercontent.com/sportlive18/Sportlink-wtf/refs/heads/main/cookie.json"
+      "cookie_url": ""
     },
     {
       "id": 11,
@@ -149,7 +149,7 @@
       "name": "Voot",
       "icon_url": "https://play-lh.googleusercontent.com/InSOp5thAKQxms_ZZfRVjefSQFX2_WDTR1B03C3zcmxftJUkOWC2c__ciwfFLwxT2G6aRQmjfMV28-tnV6dE0w",
       "playlist_url": "https://vto-meadow-ecce.bravetubez.workers.dev/?ab54dt",
-      "cookie_url": "https://raw.githubusercontent.com/sportlive18/Sportlink-wtf/refs/heads/main/cookie.json"
+      "cookie_url": ""
     }
   ],
   "livetv_categories": [
