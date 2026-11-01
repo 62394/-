@@ -5,15 +5,15 @@
     {
       "id": 1,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/098733d70b0c48ee90cb304c9d27cf40/version/12/width/1600/height/900",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/458855/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_458855&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://m.media-amazon.com/images/S/pv-target-images/5925061fa11a44b852d6c8b7656bc6cac0ab7008699cdfc0cb8483cb1f2fae6e.jpg",
+      "stream_url": "https://play.roarzone.net/emby/videos/467955/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_467955&DeviceId=df114444-7121-4967-8e59-255b00aed3bf",
       "cookie_url": ""
     },
     {
       "id": 2,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://cdn.district.in/movies-assets/images/cinema/Con-city-cover-21eba910-194b-11f1-85d3-dd2cc10d3c9b.jpg",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/457267/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_457267&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://cdn.district.in/movies-assets/images/cinema/Sigma-cover-ae220100-e08d-11f0-a556-e9356f2c9461.jpg",
+      "stream_url": "https://play.roarzone.net/emby/videos/468057/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_468057&DeviceId=df114444-7121-4967-8e59-255b00aed3bf",
       "cookie_url": ""
     },
     {
@@ -33,8 +33,8 @@
     {
       "id": 5,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://www.hindustantimes.com/ht-img/img/2025/08/08/1600x900/nani_1754636183857_1754636213061.jpg",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/458425/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_458425&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://cdn.district.in/movies-assets/images/cinema/_Horizontal_Poster2-2079eee0-9545-11f1-96a6-fffc47a57db7.jpg?im=Resize,width=720",
+      "stream_url": "https://play.roarzone.net/emby/videos/467633/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_467633&DeviceId=df114444-7121-4967-8e59-255b00aed3bf",
       "cookie_url": ""
     },
     {
