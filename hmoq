@@ -40,29 +40,29 @@
     {
       "id": 6,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://www.jagranimages.com/images/2026/09/12/template/image/haiwaan-(12)-1789181308821.webp",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/434532/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_434532&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://m.media-amazon.com/images/S/pv-target-images/bde7e5c3177d5f7a2da6f31645fb8a0603d05aaa26ac9c1ec391d34e4e5a2f23.png",
+      "stream_url": "https://play.roarzone.net/emby/videos/467630/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_467630&DeviceId=df114444-7121-4967-8e59-255b00aed3bf",
       "cookie_url": ""
     },
     {
       "id": 7,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR846IBqEaOLRw2xj76xopQG1MDdrX2JLd-OvkSPtBdXe6p8IXLDFJayzQb&s=10",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/430074/stream.mp4?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_430074&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiMWvim1IqdJ43AqPn0HiymwLgqButf4l-6PFBLdOqggIR5WDfh1ZbMHE&s=10",
+      "stream_url": "https://play.roarzone.net/emby/videos/466138/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_466139&DeviceId=df114444-7121-4967-8e59-255b00aed3bf",
       "cookie_url": ""
     },
     {
       "id": 8,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://english.makalukhabar.com/wp-content/uploads/2026/09/Mirzapur-MK.jpg",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/434998/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_434998&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1QZyn6PzneCzgXCTM8R4t6yas9lDZi__3BNO6hbHX2w&s=10",
+      "stream_url": "https://play.roarzone.net/emby/videos/466022/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_466022&DeviceId=df114444-7121-4967-8e59-255b00aed3bf",
       "cookie_url": ""
     },
     {
       "id": 9,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://assets-in.bmscdn.com/discovery-catalog/events/et00477911-klbacxkshn-landscape.jpg",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/433455/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_433455&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://m.media-amazon.com/images/M/MV5BMzEwYjc2NzQtNWUzZC00M2Q0LWFhYjYtMGM4ZTFlYTliMGUzXkEyXkFqcGc@._V1_.jpg",
+      "stream_url": "https://play.roarzone.net/emby/videos/468058/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_468058&DeviceId=df114444-7121-4967-8e59-255b00aed3bf",
       "cookie_url": ""
     }
   ],
