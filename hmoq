@@ -19,8 +19,8 @@
     {
       "id": 3,
       "title": "Blockbuster Movies HD",
-      "image_url": "https://cdn.district.in/movies-assets/images/cinema/_Horizontal_Poster2%20(20)-71b98870-b641-11f1-a883-05e03ee861e1.jpg",
-      "stream_url": "http://160.187.56.254:8096/emby/videos/435241/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_435241&DeviceId=c6c42a94-43d7-4791-9a29-e3deb26560e1",
+      "image_url": "https://images.justwatch.com/backdrop/356407074/s640/meethe-mein-kya-hai.jpg",
+      "stream_url": "https://play.roarzone.net/emby/videos/468050/stream.mkv?api_key=c5a55a9007ce4e719a74dc9af431da31&Static=true&MediaSourceId=mediasource_468050&DeviceId=df114444-7121-4967-8e59-255b00aed3bf",
       "cookie_url": ""
     },
     {
