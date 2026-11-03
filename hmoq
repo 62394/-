@@ -1,4 +1,6 @@
-{
+{ 
+  "show_festival_animation": true,
+  "festival_lottie_url": "https://github.com/trxpbc/logo/blob/main/Happy%20diwali%20animated%20graphic.lottie",
   "billboard_message": "👉All Live TV Server Fixed MovieBox Added in Category I will fix other Server Soon",
   "show_billboard": true,
   "banners": [
