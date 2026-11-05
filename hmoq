@@ -1,6 +1,6 @@
 { 
   "show_festival_animation": true,
-  "festival_lottie_url": "https://raw.githubusercontent.com/trxpbc/logo/refs/heads/main/Happy%20Diwali.json",
+  "festival_lottie_url": "https://raw.githubusercontent.com/gfyf/logo/refs/heads/main/Happy%20Diwali.json",
   "billboard_message": "👉All Live TV Server Fixed MovieBox Added in Category I will fix other Server Soon",
   "show_billboard": true,
   "show_telegram_join": true,
@@ -9,7 +9,7 @@
   "telegram_message": "Latest updates, new servers aur fixes ke liye hamara Telegram channel join karein.",
   "telegram_button_text": "Join Now",
   "telegram_dialog_cancelable": true,
-  "telegram_show_on_usage": 2,
+  "telegram_show_on_usage": 4,
   "banners": [
     {
       "id": 1,
@@ -80,21 +80,21 @@
       "id": 1,
       "name": "JioTV",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcvUKR4uGCIEK-Qlawxv6mBi0pvNDa5LpL_oKz-MMv3gqyVy3z-GCM0IFE7JRAoydBoG0cGkDbXCNZPK8Diu3rRj5wBiHavqAFrIoxNAz7UCDmnVU14o5raGuzUuoKMolIsbARxp2mUqtXcRuSuoi4jtSKw0mSfS8nwEurhXj7zbGxqIKbRy8pgQMxkPmc/s1600/JioTV-logo.png",
-      "playlist_url": "https://shiny-lake-ee8e.bravetubez.workers.dev/?ab54dt",
+      "playlist_url": "https://shiny-lake-ee8e.gfyf.workers.dev/?ab54dt",
       "cookie_url": ""
     },
     {
       "id": 2,
       "name": "JioTV+",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10",
-      "playlist_url": "https://falling-fire-22dc.bravetubez.workers.dev/?ab54dt",
+      "playlist_url": "https://falling-fire-22dc.gfyf.workers.dev/?ab54dt",
       "cookie_url": ""
     },
     {
       "id": 3,
       "name": "JioTV+2",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNBWrB2vaq2-YK5REHPb_Y2WLz1VxISmiTzcsX9Y2jDqZ4Bg_X-NUqu11F8THHrcVRWkzajVlgMcGa5cXmdV4DxFsKM3OAeM8HZulF3oLTC6xvtRPahaQipt17MRatriujmYpylkeJiIUZycNB35rq9Rmx98GHe-wxcadglHXv5EE7nYKMymOBgyAZV4Y/s1600/jiotvsss.jpeg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/playlist.m3u",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/playlist.m3u",
       "cookie_url": ""
     },
     {
@@ -108,14 +108,14 @@
       "id": 5,
       "name": "Jio Hotstar",
       "icon_url": "https://www.advanced-television.com/wp-content/uploads/2025/02/JioHotstar.png",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/playlist4.m3u",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/playlist4.m3u",
       "cookie_url": ""
     },
     {
       "id": 6,
       "name": "Sun NXT",
       "icon_url": "https://play-lh.googleusercontent.com/x4kBOcfV6zyByJJdlDQENUO8iIre45oCpA0vPr4t5t3cohnXDHnIf1qGZYwEvFYWxlGJ2YiDXmrLLOu8nN2YHQ=w240-h480-rw",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/snnxt",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/snnxt",
       "cookie_url": ""
     },
     {
@@ -150,21 +150,21 @@
       "id": 12,
       "name": "Sony LIV",
       "icon_url": "https://cdn.dotpe.in/longtail/store-items/3681248/OUlLVlgQ.jpeg",
-      "playlist_url": "https://slvv-frost-cfdb.bravetubez.workers.dev/?ab54dt",
+      "playlist_url": "https://slvv-frost-cfdb.gfyf.workers.dev/?ab54dt",
       "cookie_url": ""
     },
     {
       "id": 13,
       "name": "ZEE 5",
       "icon_url": "https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg",
-      "playlist_url": "https://z5so-salad-1bc7.bravetubez.workers.dev/?ab54dt",
+      "playlist_url": "https://z5so-salad-1bc7.gfyf.workers.dev/?ab54dt",
       "cookie_url": ""
     },
     {
       "id": 14,
       "name": "Voot",
       "icon_url": "https://play-lh.googleusercontent.com/InSOp5thAKQxms_ZZfRVjefSQFX2_WDTR1B03C3zcmxftJUkOWC2c__ciwfFLwxT2G6aRQmjfMV28-tnV6dE0w",
-      "playlist_url": "https://vto-meadow-ecce.bravetubez.workers.dev/?ab54dt",
+      "playlist_url": "https://vto-meadow-ecce.gfyf.workers.dev/?ab54dt",
       "cookie_url": ""
     },
     {
@@ -231,56 +231,56 @@
       "id": 1,
       "name": "MovieBox",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqM82dA-WVRKg_r9YC7E-DEzlac5rAl6ZC__kI-aNkv3DlDqrzC93xlAt1u3mivbury8tvGajc2FMN47FDPlIiUsFkS9XbmPUoAmWFE-4kCLpazVqHLa9PkS26CjvvD_oAKlMvEMNQJUH31DoM2wHGdbqYKhy5vk8SOO9Ua8m8_hYRIQJDJZYcT2Vukw/s1600/movieboxbanner.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/mobbx",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/mobbx",
       "cookie_url": ""
     },
     {
       "id": 2,
       "name": "Netflix",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb-8sszomB_Dp0_SM5-VW1mKV2cjAk_iekkWiYUqEMF_GEzmBANQesO5Mm-t8VMvm4Sw70UeeNwu_AnT1hsN_RLd91OXNbKJfcsWZzlQXV0P4CptXibElmZveW392wKNB5_edWJvWXCzSFizspUl51hBAJrR3Q3xIXM7juJbrisHIZiA_dO0Hq9q11YL1o/s1600/netflix-logo.png",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/ntfl",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/ntfl",
       "cookie_url": ""
     },
     {
       "id": 3,
       "name": "Prime Video",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg47RgDH9DXrSWLbTlQZtxNlmPmuyzwtgIn0_ai81LCFZ0BOjHqbg8jAQZlTaEigH-zhC7JBWqd-qCcT_eZgRxxp5HA3kt_2j-MoGb-BMzDl_ta167QXB_1LBp9wr5OYxmEDiSmEodn1mLWMB27cuXk8nSKuj8yACyKJLXT1V1d2MbK5nkXqpj9IIUM8T4J/s1600/primevideo-logo.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/prm",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/prm",
       "cookie_url": ""
     },
     {
       "id": 4,
       "name": "MX Player",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pmUqs9ciQM7iPJ72pkGloBvvZ6vGODVO45bGtcVuhQvZxt_kajAW8HC9SSR_EnF0WFCVZXceW6UtE98f76fLUbftEquRJTx1wM30cTYbvkYdTPEmZ1J_vp0l8VvOhyphenhyphen4uxMj3qCrSPDiw-G5XK-MyXdfy5EegMvTWYJFwWetsyiDsKL-AUoxQM7AcMHEQ/s1600/mxplayer-logo.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/mxpl",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/mxpl",
       "cookie_url": ""
     },
     {
       "id": 5,
       "name": "Sony Liv",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFDg47jZ5Fiz0E3aL2TisY6K13vHyweXaIvNF7G-FcY0MCY3WlIW1x-Fu-H9zKU76rSj8MFILtZVMgyaRyyDV1RBvq0H5GWdgqWBhAuzTUTNjvwWyr8LcIanGVg4WSGE9ZQmyKZT9SnXyf001ANhdDukNJebNiVN1Wl2Qli2jx0-Hg9j3ltQid2JCzcvLa/s1600/sonylivbanner.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/slvorg",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/slvorg",
       "cookie_url": ""
     },
     {
       "id": 6,
       "name": "Disney+",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv2tiPDmIEG59ylTLqMh3H7MO1WzJV-xQm22Zo5YgYJT9Cq1hwWRh5Ige9Emvy-hIDRNrXbxnm9jXUuadCVDZx2V_ISOSE4lBlBwaDjfvbYRjZbNguFX9iOIbPuvsfviS0XlFcB3Tz-_eQVLUmzbpMZ1qbb2xUCOWZ3ozAyBU6eKVhURETj0kOkE0-0yqw/s1600/disneyplus-logo.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/htsr",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/htsr",
       "cookie_url": ""
     },
     {
       "id": 7,
       "name": "Jio Hotstar",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6oMyTk1I9MQHw637eQLkFeBzP7XwAz-h8zwC2QMmh37sugi0ws5r4iU&s=10",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/hstr",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/hstr",
       "cookie_url": ""
     },
     {
       "id": 8,
       "name": "ZEE5",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaKcfLLcYBE6z2W09R45yz_-af4sKC4NMeLlhyPkfuj6HArHCh-yhj-kllrbYk9iyfTS0wviVuAQHV8nZu1SjxlBxD2Hp5r9Go9R06g2eskKOl6sEeFY9FhMJPsuoWFdubA6eVdnovv2nE2h4ABGZANTbre_jh74gioAKIxZh5T-sGr5mTKogaMAmfi-p-/s1600/zee5movies-logo.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/zpaach",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/zpaach",
       "cookie_url": ""
     }
   ],
@@ -289,63 +289,63 @@
       "id": 1,
       "name": "Action",
       "icon_url": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5302/1535302-a-e90748391e0d",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/actn",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/actn",
       "cookie_url": ""
     },
     {
       "id": 2,
       "name": "Crime",
       "icon_url": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5288/1535288-a-690bac400aa1",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/crmi",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/crmi",
       "cookie_url": ""
     },
     {
       "id": 4,
       "name": "Thriller",
       "icon_url": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5246/1535246-a-27373cc1a222",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/thrlr",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/thrlr",
       "cookie_url": ""
     },
     {
       "id": 5,
       "name": "Horror",
       "icon_url": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5279/1535279-a-c92b487cb711",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/hrro",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/hrro",
       "cookie_url": ""
     },
     {
       "id": 6,
       "name": "Comedy",
       "icon_url": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/5292/1535292-a-5739f9c84b63",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/cmdy",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/cmdy",
       "cookie_url": ""
     },
     {
       "id": 7,
       "name": "Hollywood",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg4AKnnKM_rC4S38gLo-g7NbL8s4oCU8rpRAT6bumYY0iZoHUrCJkaT2Cy2ZSWhorx1aPlc7q6oCNd5m8f7omNLuo-Hw0NT2fBPRHmadXpru72yUvsHzHynoocQ3s3SS6wpHuymv8hX9ALDZxv2rR6DM8ASfv8Imb2T3tzyxTjFprVVpPdPw_bSiV1iJ8/s1600/HollywoodPoster.png",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/hllwd",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/hllwd",
       "cookie_url": ""
     },
     {
       "id": 8,
       "name": "Bollywood",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNFGtlaKJ_Bfy3CFANRAIqGrQhy684ld8qG8WiY-pE-PCGCG15L-y3teJLg49JKwLovkTNTzgqKXFo-XIfzOUXWv4dlTvWQcEHLQjUhstLkccvUa2fVzFsQsUfUd6OkfNM1sZUdlATQK6PdDCb2OBj-rJqvwIx1jYk8OaOqDhj4OuiTJw8Xw_ccqFS7Zo/s1600/BollywoodPoster.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/bllwd",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/bllwd",
       "cookie_url": ""
     },
     {
       "id": 9,
       "name": "South",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiplHqmbLrbMADO8j-P-yJoqgDz_mWQ-hsIzMQoMyytmmsD17Yy2TjHHEXLCnK2jn-b46ZyeYvHI7hExeilEzKbZRPu-6lN96QSQkDbxcGhA8PC526eTusEZ9MahVOhFF2rBDdSXJgoR-2YSOdXhCKFV1BqSQnZQNlVYbwN65kleR3LOx0qTh5twFDBlH4/s1600/SouthPoster.jpg",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/sth",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/sth",
       "cookie_url": ""
     },
     {
       "id": 10,
       "name": "Romance",
       "icon_url": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/1112/1750239101112-a",
-      "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/rmce",
+      "playlist_url": "https://raw.githubusercontent.com/gfyf/7684/refs/heads/main/rmce",
       "cookie_url": ""
     }
   ]
