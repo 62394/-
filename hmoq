@@ -5,11 +5,14 @@
   "show_billboard": true,
   "show_telegram_join": true,
   "telegram_link": "https://t.me/+gNBZy6GYAylkMDI1",
+  "telegram_show_on_usage": 2,
   "telegram_title": "Join Our Telegram Channel",
   "telegram_message": "Latest updates, new servers aur fixes ke liye hamara Telegram channel join karein.",
   "telegram_button_text": "Join Now",
+  "telegram_later_text": "Not Now",
+  "telegram_icon_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/960px-Telegram_2019_Logo.svg.png",
   "telegram_dialog_cancelable": true,
-  "telegram_show_on_usage": 4,
+
   "banners": [
     {
       "id": 1,
