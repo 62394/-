@@ -122,6 +122,13 @@
       "cookie_url": ""
     },
     {
+      "id": 7,
+      "name": "OpplexTV",
+      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayH-wT3qvbBaSEBLczyo2KKtee9Yu-MWh9UkmgPd-KOMr6bW71ty60FVT&s=10",
+      "playlist_url": "https://kingiptv04nov.zonmp.net/",
+      "cookie_url": ""
+    },
+    {
       "id": 8,
       "name": "Live Events",
       "icon_url": "https://img.magnific.com/premium-photo/live-event-announcement-with-bold-text-dynamic-background_1634541-524.jpg?semt=ais_hybrid&w=740&q=80",
