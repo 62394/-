@@ -239,6 +239,13 @@
   "browse_movie_apps": [
     {
       "id": 1,
+      "name": "Latest Movies",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjszt74jsRVilmbm9b7Qwsz-GCedLd1I06tIV1qbFAYuqrgTJdhNbGU_1C4l1HPGuqxdkJxltTLDnnDplYiXPnaXU_5b2_TT9KimkxK9IjFI6CAr_DSwrSgHBpGcZyWkCAGe6p1xDFZzVIe0yZTjKwMlW0qB2P_U7yJBmGUkvR6ePNGzsmjf5oJN8MI_c/s1600/LatestMoviesbanner.jpg",
+      "playlist_url": "http://vca.easy747.com:80/player_api.php?username=3X7L45AKL2351JY&password=rd1Uin0TM7&action=get_vod_categories",
+      "cookie_url": ""
+    },
+    {
+      "id": 1,
       "name": "MovieBox",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqM82dA-WVRKg_r9YC7E-DEzlac5rAl6ZC__kI-aNkv3DlDqrzC93xlAt1u3mivbury8tvGajc2FMN47FDPlIiUsFkS9XbmPUoAmWFE-4kCLpazVqHLa9PkS26CjvvD_oAKlMvEMNQJUH31DoM2wHGdbqYKhy5vk8SOO9Ua8m8_hYRIQJDJZYcT2Vukw/s1600/movieboxbanner.jpg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/mobbx",
