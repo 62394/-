@@ -242,7 +242,8 @@
       "name": "Latest Movies",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjszt74jsRVilmbm9b7Qwsz-GCedLd1I06tIV1qbFAYuqrgTJdhNbGU_1C4l1HPGuqxdkJxltTLDnnDplYiXPnaXU_5b2_TT9KimkxK9IjFI6CAr_DSwrSgHBpGcZyWkCAGe6p1xDFZzVIe0yZTjKwMlW0qB2P_U7yJBmGUkvR6ePNGzsmjf5oJN8MI_c/s1600/LatestMoviesbanner.jpg",
       "playlist_url": "http://vca.easy747.com:80/player_api.php?username=3X7L45AKL2351JY&password=rd1UinOTM7&action=get_vod_streams",
-      "cookie_url": ""
+      "cookie_url": "",
+      "pin": "1385"
     },
     {
       "id": 1,
