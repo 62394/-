@@ -241,7 +241,7 @@
       "id": 1,
       "name": "Latest Movies",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS9vE9sOFKuJm_TkLLIAReVyTfJzL1h3EVRuI59UlzP29f3LJChfIfGrxiJc9niSaHRK_EriPxFEGYCHk3QpvOTtP9D8azphw9DzDsN3-_EdXjlhBJD7Nys7dhoYn7IvAo2F__BZIUlqpw51lwYeGd0un2Y0tgTjoQZ16fB7BoCgV3I1iezq1wtOOAMnw/s1600/LatestMoviezbanner.jpg",
-      "playlist_url": "http://bosstv.click:8080/player_api.php?username=75764654543&password=757557556544&action=get_vod_streams",
+      "playlist_url": "http://bosstv.click:8080/#pin=1358#player_api.php?username=75764654543&password=757557556544&action=get_vod_streams",
       "cookie_url": "",
       "pin": "1385"
     },
