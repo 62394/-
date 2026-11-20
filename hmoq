@@ -126,7 +126,8 @@
       "name": "Star Share",
       "icon_url": "https://storage.googleapis.com/takeapp/media/clskazwgj00010gjxgg9e6lse.jpg",
       "playlist_url": "http://livebox.pro/#pin=1358#player_api.php?username=362829000761&password=99559955",
-      "cookie_url": ""
+      "cookie_url": "",
+      "pin": "1385"
     },
     {
       "id": 8,
