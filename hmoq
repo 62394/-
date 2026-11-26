@@ -145,6 +145,13 @@
     },
     {
       "id": 10,
+      "name": "Live Events 2",
+      "icon_url": "https://dn721805.ca.archive.org/0/items/live-event_202103/live-event.jpg",
+      "playlist_url": "https://jhs-lund.rtxcric.workers.dev/playlist.m3u",
+      "cookie_url": ""
+    },
+    {
+      "id": 10,
       "name": "Live Events",
       "icon_url": "https://img.magnific.com/premium-photo/live-event-announcement-with-bold-text-dynamic-background_1634541-524.jpg?semt=ais_hybrid&w=740&q=80",
       "playlist_url": "https://event-frost-4a42.latestapk.workers.dev/?ab54dt",
