@@ -81,55 +81,62 @@
   "browse_livetv_apps": [
     {
       "id": 1,
+      "name": "FavTV",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl5tyVxhaW9TFlVzniJpdBHQqYvjCFCBSNyUEZqRFYIGKWkXYfCfEWeiV7TOwVIKfo5bx0LHhyrc9WbIwBiK-23BIvS4OH9xeRkjvoAXCftNUqXNZ-RNCmmgTmGsqmO6fzlJR0riNykvIxG5YMRMFAArg7zC5HGxLkea9WrlfZQGIJa7erWOu-zExKq7Y/s1600/favtvlogo.jpg",
+      "playlist_url": "https://0e78.latestapk.workers.dev/?ab54dt",
+      "cookie_url": ""
+    },
+    {
+      "id": 2,
       "name": "JioTV",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcvUKR4uGCIEK-Qlawxv6mBi0pvNDa5LpL_oKz-MMv3gqyVy3z-GCM0IFE7JRAoydBoG0cGkDbXCNZPK8Diu3rRj5wBiHavqAFrIoxNAz7UCDmnVU14o5raGuzUuoKMolIsbARxp2mUqtXcRuSuoi4jtSKw0mSfS8nwEurhXj7zbGxqIKbRy8pgQMxkPmc/s1600/JioTV-logo.png",
       "playlist_url": "https://shiny-lake-ee8e.bravex.workers.dev/?ab54dt",
       "cookie_url": ""
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "JioTV+",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32BfOcij5y0NkYztgiMZ3AFXmBjXlAIYiuKm2U49BBLqpI4ZWuR92-LA&s=10",
       "playlist_url": "https://falling-fire-22dc.bravex.workers.dev/?ab54dt",
       "cookie_url": ""
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "JioTV+2",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNBWrB2vaq2-YK5REHPb_Y2WLz1VxISmiTzcsX9Y2jDqZ4Bg_X-NUqu11F8THHrcVRWkzajVlgMcGa5cXmdV4DxFsKM3OAeM8HZulF3oLTC6xvtRPahaQipt17MRatriujmYpylkeJiIUZycNB35rq9Rmx98GHe-wxcadglHXv5EE7nYKMymOBgyAZV4Y/s1600/jiotvsss.jpeg",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/playlist.m3u",
       "cookie_url": ""
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "JioCinema",
       "icon_url": "https://static.thearcweb.com/images/PROD/PROD-594ff280-6071-4cd5-85c0-d8be93abbfdb.png",
       "playlist_url": "https://zeotvyash.streamxlivenow.workers.dev",
       "cookie_url": ""
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Jio Hotstar",
       "icon_url": "https://www.advanced-television.com/wp-content/uploads/2025/02/JioHotstar.png",
       "playlist_url": "https://jhs-makabosda.rtxcric.workers.dev/playlist.m3u",
       "cookie_url": ""
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "VZY",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwExDVukkNzb3EDYvzAFlEfkOJvAM6CxfcZy9gS4od_w&s=10",
       "playlist_url": "https://texbin.pages.dev/api/paste/vzy-playlist-m3u/raw",
       "cookie_url": ""
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Sun NXT",
       "icon_url": "https://play-lh.googleusercontent.com/x4kBOcfV6zyByJJdlDQENUO8iIre45oCpA0vPr4t5t3cohnXDHnIf1qGZYwEvFYWxlGJ2YiDXmrLLOu8nN2YHQ=w240-h480-rw",
       "playlist_url": "https://raw.githubusercontent.com/kafankahaniyaan-creator/7684/refs/heads/main/snnxt",
       "cookie_url": ""
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Star Share",
       "icon_url": "https://storage.googleapis.com/takeapp/media/clskazwgj00010gjxgg9e6lse.jpg",
       "playlist_url": "http://livebox.pro/#pin=1358#player_api.php?username=362829000761&password=99559955&action=get_live_streams",
@@ -137,70 +144,70 @@
       "pin": "1385"
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "OpplexTV",
       "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayH-wT3qvbBaSEBLczyo2KKtee9Yu-MWh9UkmgPd-KOMr6bW71ty60FVT&s=10",
       "playlist_url": "http://premiumtvs.space/#pin=1358#player_api.php?username=YqXTywueEV&password=damp2purchase",
       "cookie_url": ""
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Live Events 1",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqcymyMkwcA7PlI9w5qZZIN4sw5-wZACLF8gcQvy6nk4EtscFOQgMvx1bYU2T0SzWAbOOIkkSsiQ7uatgbeug4uTptTJmatboz1IAZ6HqC2ALfsv3Bj_zvzlu_KYa5gjeEOuDAdpnfRD04RuQ7T42wBWJIp7Ffma3t9EbPfw8BEgYiibuJs6mcqBXo_ts/s1600/LiveEvents1logo.webp",
       "playlist_url": "https://jhs-lund.rtxcric.workers.dev/playlist.m3u",
       "cookie_url": ""
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Live Events 2",
       "icon_url": "https://img.magnific.com/premium-photo/live-event-announcement-with-bold-text-dynamic-background_1634541-524.jpg?semt=ais_hybrid&w=740&q=80",
       "playlist_url": "https://event-frost-4a42.latestapk.workers.dev/?ab54dt",
       "cookie_url": ""
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Sports Pro",
       "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGjcoWHrnw0h1KF7RAltVRXs4p6rpcX-6Xg4zwgFBB4wE8_TxDnc-7loPx4QQ0OQU3GjSXn0lNm00u68NvtcpLTT2YNPGqQ-YzO0X7u9AeDSuElJj_gKWdHFk__oTncyiVK-tKxDnfdTkwAscQT4W0h1NmfzuWm2pCaHBunAfvD-fUDsd6ikLlpqJ6vkq6/s1600/sports_pro_logo.png",
       "playlist_url": "https://raw.githubusercontent.com/sportlive18/Sportlink-wtf/refs/heads/main/Sport.m3u",
       "cookie_url": ""
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Prime Sports",
       "icon_url": "https://pbs.twimg.com/profile_images/2049865070394392576/GPXgpAD-_400x400.jpg",
       "playlist_url": "https://raw.githubusercontent.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist/refs/heads/main/primesport.m3u",
       "cookie_url": ""
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Fancode",
       "icon_url": "https://play-lh.googleusercontent.com/VwwyvMYe8rVhEwAP2MIUliY0ZAwyb41jHzd5RLwvYIm7H4M4ty-kWtLNWsMKRmyqWg4uO0Buw8YhAtuR9effBg",
       "playlist_url": "https://raw.githubusercontent.com/sportlive18/Fancode-New-Auto-Update/refs/heads/main/fancode2.m3u",
       "cookie_url": ""
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Sony LIV",
       "icon_url": "https://cdn.dotpe.in/longtail/store-items/3681248/OUlLVlgQ.jpeg",
       "playlist_url": "https://slvv-frost-cfdb.bravex.workers.dev/?ab54dt",
       "cookie_url": ""
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "ZEE 5",
       "icon_url": "https://m.media-amazon.com/images/I/51DI1Se1SQL._AC_UF894,1000_QL80_.jpg",
       "playlist_url": "https://z5so-salad-1bc7.bravex.workers.dev/?ab54dt",
       "cookie_url": ""
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "Voot",
       "icon_url": "https://play-lh.googleusercontent.com/InSOp5thAKQxms_ZZfRVjefSQFX2_WDTR1B03C3zcmxftJUkOWC2c__ciwfFLwxT2G6aRQmjfMV28-tnV6dE0w",
       "playlist_url": "https://vto-meadow-ecce.bravex.workers.dev/?ab54dt",
       "cookie_url": ""
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "24/7 Kids",
       "icon_url": "https://static.vecteezy.com/system/resources/thumbnails/052/548/183/small_2x/kids-tv-logo-design-free-vector.jpg",
       "playlist_url": "https://pastefy.app/W1p1VecD/raw",
